@@ -101,4 +101,134 @@ div#subcuadro_1{
     height: 50%;
 
 }
+p#texto_1{
+    color: white;
+    font-size: 50px;
+    margin-top: 35px;
+    margin-left: 40px;
+    font-family: Gilroy;
+    font-size: 35px;
+}
+#mapa_del_ecuador{
+    margin-top: 35px;
+    margin-left: 60px;
+    top:0px; 
+    left:0px; 
+    width:640px; 
+    height:449px;
+            
+}
+.regiones{
+    width: 40px;
+    height: 35px;
+    color: white;
+    float: right;
+    margin-right: 50px;
+}
+
+.regiones_2 {
+    width: 500px;
+    height: 35px;
+    color: white;
+    margin-right: 50px;
+    margin-left: 100px;
+}
+
+#regiones_texto{
+    width:100%;
+    width: 200px ;
+    text-align: left;
+    background-color: #B3E5FC;
+    color: black;
+    border-collapse: collapse;
+    font-family: Gilroy;
+    float: right;
+    margin-right: 40px;
+}
+
+#regiones_texto1{
+    width:100%;
+    width: 200px ;
+    text-align: left;
+    background-color: #B3E5FC;
+    color: black;
+    border-collapse: collapse;
+    font-family: Gilroy;
+    float: right;
+    margin-right: 40px;
+}
+#regiones_texto2{
+    width:100%;
+    width: 200px ;
+    text-align: left;
+    background-color: #B3E5FC;
+    color: black;
+    border-collapse: collapse;
+    font-family: Gilroy;
+    float: right;
+    margin-right: 5px;
+}
+#regiones_texto3{
+    width:100%;
+    width: 200px ;
+    text-align: left;
+    background-color: #B3E5FC;
+    color: black;
+    border-collapse: collapse;
+    font-family: Gilroy;
+    float: right;
+    margin-right: 5px;
+}
+th , td.otros{
+    padding: 
+    15px;
+}
+td.costa{
+    padding: 
+    15px;
+}
+th{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+thead{
+    background-color: #0288d1;
+    color: white;
+    border-bottom: solid 5px #003055;
     
+}
+thead #provincias_costa{
+    background-color: #0288d1;
+    color: white;
+    border-bottom: solid 5px #003055;
+    
+}
+tr:nth-child(even){
+    background-color: #81d4fa;
+
+}
+tr:hover td{
+    background-color: #49a1e3;
+    color: white;
+
+}
+
+#btn1{
+    box-decoration-break: none;
+}
+#if #li1{
+    position: absolute;
+    background-color: white;
+    margin-top: 15px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: none;
+    display: none;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
